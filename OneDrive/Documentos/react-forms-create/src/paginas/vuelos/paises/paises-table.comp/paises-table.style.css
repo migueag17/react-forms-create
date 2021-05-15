@@ -1,0 +1,10 @@
+.tabla-paises{
+    width: 90%;
+    margin: 0 auto;
+    height: 30px;
+    border: 2px solid green;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+    border-radius: 1rem;
+}
